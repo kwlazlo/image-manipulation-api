@@ -1,1 +1,1 @@
-# social-media
+# image-manipulation-api
